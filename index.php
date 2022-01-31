@@ -9,5 +9,6 @@
 </head>
 <body>
     <?php include("assets/php/navbar.php") ?>
+    <?php include("assets/php/banniere.php") ?>
 </body>
 </html>
