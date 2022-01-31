@@ -3,6 +3,7 @@
         <ul class="list_navl">
             <li><a class="acceuil" href="index.php">Binouze</a></h2></li>
             <li><a href="liste.php" class="biere">Liste des bières</a></li>
+            <li><a href="ajout.php" class="ajout">Ajout d'une bière</a></li>
         </ul>
         <ul class="list_navr">
             <li><a href="#" class="co">Connexion</a></li>
